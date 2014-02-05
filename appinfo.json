@@ -1,0 +1,26 @@
+{
+    "versionLabel": "1.0",
+    "uuid": "51e86a93-cf45-4143-8ee2-a51f868d7f5c",
+    "appKeys": {},
+    "longName": "onebus",
+    "versionCode": 1,
+    "capabilities": [
+        "location",
+        "configurable"
+    ],
+    "shortName": "onebus",
+    "companyName": "chsmall",
+    "watchapp": {
+        "watchface": false
+    },
+    "resources": {
+        "media": [
+            {
+                "menuIcon": true,
+                "type": "png",
+                "name": "BUS_IMAGE",
+                "file": "images/bus_icon.png"
+            }
+        ]
+    }
+}
